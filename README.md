@@ -17,6 +17,22 @@
 - Silvar Néstor
 
 </div>
+
+ <h1 align="left"> Metodología de Trabajo </h1>
+
+| Scrum Master | Mes |
+|-------|-------------|
+| Morales, Ailín | Abril |
+| Silva, Néstor | Mayo |
+| Romero, Gonzalo | Junio |
+| Basso, Lucas | Agosto |
+| Morales, Ailín | Septiembre |
+| Silva, Néstor | Octubre |
+| Romero, Gonzalo | Noviembre |
+
+</div>
+
+
 <div align="left"> 
     <h3>🔨 Lenguajes y herramientas</h3>
     <div>
